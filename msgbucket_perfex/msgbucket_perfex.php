@@ -6,7 +6,7 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
-Module Name: MsgBucket Whatsapp
+Module Name: MsgBucket WhatsApp
 Description: Plugin for WhatsApp Notifications
 Author: MsgBucket
 Author URI: https://msgbucket.com
